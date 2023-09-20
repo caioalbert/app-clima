@@ -18,6 +18,10 @@ body{
   background-image: url("https://source.unsplash.com/1600x900/?landscape");
 }
 
+.title{
+  color: #fff;
+}
+
 .caixa-maior{
   background: #000000;
   opacity: 0.8;
